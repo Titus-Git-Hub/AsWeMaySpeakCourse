@@ -1,3 +1,5 @@
+#ASSIGNMENT 1 -> NEWS HEADLINE GENERATOR
+
 import tracery
 from tracery.modifiers import base_english
 
